@@ -1,0 +1,37 @@
+Learning 1:
+-----------
+MERN Stack
+Node JS
+
+Running JavaScript Using Node JS:
+Node REPL (Read-Eval-Print-Loop)
+Node CLI
+
+Module:
+Common JS Module Exports  - Default ,Named
+Modern JS Module Exports  - Default ,Named
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+
+Learnin 2:
+-----------
+Core Modules:
+Path
+
+Package:
+Node Package Manager (NPM)
+
+Steps to create a Node JS Project =>1.create folder 2.cd projectFolder 3.npm init -y 
+
+Third-Party Packages:
+date-fns
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
